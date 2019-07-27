@@ -1,4 +1,4 @@
-CityGML_PostgreSQL_Query_Tool
+CityGML PostgreSQL Query Tool
 =============================
 
 ### About
